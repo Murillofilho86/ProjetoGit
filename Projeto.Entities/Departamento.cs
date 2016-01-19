@@ -17,5 +17,7 @@ namespace Projeto.Entities
         public ICollection<Funcionario> Funcionarios { get; set; }
 
         #endregion
+   
+    
     }
 }

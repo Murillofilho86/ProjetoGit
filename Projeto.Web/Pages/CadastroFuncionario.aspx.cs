@@ -36,6 +36,8 @@ namespace Projeto.Web.Pages
             }
         }
 
+
+
         //evento executado quando o botão for clicado..
         protected void btnCadastro_Click(object sender, EventArgs e)
         {
